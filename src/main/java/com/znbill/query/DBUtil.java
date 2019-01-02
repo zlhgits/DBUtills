@@ -11,8 +11,10 @@ import java.sql.SQLException;
 import java.util.UUID;
 
 /**
- * CRUD
- * Created by zn on 2018-08-06.
+ * CRUD，暂时只有插入
+ * Author zlh
+ * Date 2018-12-27
+ * Version 1.0
  */
 public class DBUtil {
     private Logger LOG = LoggerFactory.getLogger ( DBUtil.class );
